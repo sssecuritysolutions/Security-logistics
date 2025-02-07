@@ -1,4 +1,4 @@
-<header>
+<header>SSSEcurity SOLUTION 
 
 <!--
   <<< Author notes: Course header >>>
